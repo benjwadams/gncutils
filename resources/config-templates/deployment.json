@@ -1,0 +1,17 @@
+{
+    "glider": "REQUIRED",
+    "trajectory_date": "YYYY-mm-ddTHH:MM",
+    "global_attributes": {
+        "wmo_id": "SORT-OF-REQUIRED",
+        "deployment_number" : INTEGER
+    },
+    "platform": {
+        "type": "platform",
+        "id": "GLIDER-NAME",
+        "wmo_id": "SORT-OF-REQUIRED",
+        "long_name": "Slocum G2 Glider GLIDER_NAME",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}
